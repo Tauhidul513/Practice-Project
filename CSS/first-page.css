@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(127, 223, 230);
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.watch-1 {
+    height: 500px;
+    width: 300px;
+    border: 2px double gray;
+    border-radius: 10px;
+    background-color: khaki;
+    padding: 10px;
+    float: left;
+}
+
+.img-1 {
+    width: 300px;
+}
+
+.watch-2 {
+    height: 500px;
+    width: 300px;
+    border: 2px double gray;
+    border-radius: 10px;
+    background-color: khaki;
+    padding: 10px;
+    float: left;
+}
+
+.img-2 {
+    width: 300px;
+}

@@ -1,0 +1,33 @@
+body {
+    background-image: url('../first.jpg');
+    background-repeat: no-repeat;
+    background-size: 1300px 620px;
+}
+
+.heading {
+    color: rgb(5, 95, 131);
+    text-align: center;
+}
+
+.name-pass {
+    color: rgb(80, 141, 151);
+    padding-left: 50px;
+}
+
+h3 {
+    color: rgb(117, 39, 52);
+    padding-left: 50px;
+}
+
+.radio {
+    color: darkseagreen;
+    padding-left: 50px;
+}
+
+.submit {
+    background-color: sandybrown;
+}
+
+.cancel {
+    background-color: skyblue;
+}
